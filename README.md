@@ -1,1 +1,0 @@
-# hansol-no-responsive
