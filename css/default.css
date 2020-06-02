@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+*{margin: 0; padding: 0; border: none;}
+a{color: #333; text-decoration: none;}
+ul,ol,li{list-style: none;}
+.wrap{box-sizing:border-box;width:1200px;margin:0 auto;border-top:2px solid blue;padding:10px 2px 16px;}
